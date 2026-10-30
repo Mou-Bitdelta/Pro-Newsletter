@@ -1,0 +1,28 @@
+المستودع: Mou-Bitdelta/Pro-Newsletter
+الفرع: main
+المجلد الجديد: pro-newsletter-2026-10-30
+
+مكان المجلد على جهازك:
+C:\Users\MohamadFatta_9pmj5cz\Documents\Codex\2026-10-30\github-plugin-github-openai-curated-remote-3\outputs\pro-newsletter-2026-10-30
+
+ارفع هذا المجلد كاملاً، مع مجلد assets الموجود داخله.
+لا تغيّر الأسماء، ولا ترفع ملف ZIP وحده، ولا تخلط الأصول مع مجلد assets القديم في المستودع.
+
+الترتيب المطلوب:
+Pro-Newsletter/
+  pro-newsletter-2026-10-30/
+    newsletter.html
+    newsletter.amp.html
+    assets/
+      جميع ملفات الصور والأصول الموجودة داخل مجلد assets المحلي
+
+طريقة الرفع:
+1. افتح https://github.com/Mou-Bitdelta/Pro-Newsletter/upload/main
+2. اسحب مجلد pro-newsletter-2026-10-30 كاملاً من مستكشف الملفات إلى صفحة الرفع.
+3. اضغط Commit changes وانتظر انتهاء الحفظ.
+4. تأكد أن مجلد assets ظاهر داخل المجلد الجديد على GitHub.
+
+إذا رفعت الملفات الرئيسية وحدها، استخدم هذا الرابط لرفع كل الملفات الموجودة داخل assets المحلي:
+https://github.com/Mou-Bitdelta/Pro-Newsletter/upload/main/pro-newsletter-2026-10-30/assets
+
+بعد اكتمال رفع الأصول ستعمل صور نسختي HTML وAMP تلقائياً من روابط GitHub المكتوبة داخلهما.
