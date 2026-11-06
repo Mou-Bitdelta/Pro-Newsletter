@@ -1,24 +1,21 @@
-BitDelta Pro — Multi-Asset Market Briefing — 24–30 October 2026
+BitDelta Pro — Multi-Asset Market Briefing — 31 October–6 November 2026
 
-newsletter.html: Standard table-based email HTML, inline styling, and Outlook background fallbacks.
-newsletter.amp.html: AMP for Email (AMP4EMAIL), validated with the official validator: PASS, no errors or warnings.
-assets/: Optimized PNG and original-format SVG assets. PNG compatibility copies of vector logos and exact Figma image-fill viewports are also included.
-preview-600.png / preview-375.png: Desktop and mobile previews.
-assets-manifest.json: Source/optimized dimensions, formats, and file sizes.
+newsletter.html: Standard table-based email HTML with live text, inline styling, mobile stacking and Outlook background fallbacks.
+newsletter.amp.html: AMP for Email (AMP4EMAIL). Official validator result: PASS, no errors or warnings.
+assets/: Optimized PNG assets, original-format SVG assets and PNG compatibility copies of logos. Image-fill viewports preserve the Figma placement. The masthead PNG was exported directly from Figma after its asset URL returned an empty placeholder.
+preview-600.png and preview-375.png: Desktop and mobile browser previews.
+assets-manifest.json: Source and optimized formats, dimensions and byte counts.
 
 Repository: Mou-Bitdelta/Pro-Newsletter
 Branch: main
-Folder: pro-newsletter-2026-10-30
+New folder: pro-newsletter-2026-11-06
+All runtime images use https://raw.githubusercontent.com/Mou-Bitdelta/Pro-Newsletter/main/pro-newsletter-2026-11-06/assets/
 
-All runtime images are linked to:
-https://raw.githubusercontent.com/Mou-Bitdelta/Pro-Newsletter/main/pro-newsletter-2026-10-30/assets/
+Upload the whole folder including assets. Do not rename the folder, flatten the structure, or upload only the ZIP file. If using the ZIP, unzip it first.
 
-Upload the ENTIRE pro-newsletter-2026-10-30 folder, including assets. Do not rename it or flatten its contents. Do not upload only the ZIP file: unzip it and upload the folder.
+Sending: use newsletter.html as text/html. Use newsletter.amp.html as the text/x-amp-html MIME part alongside HTML and plain-text fallbacks. AMP delivery requires a supported provider/client and any sender registration required by that provider.
 
-Sending: use newsletter.html as text/html. Use newsletter.amp.html as the text/x-amp-html MIME part alongside HTML and plain-text fallbacks. AMP requires an email provider/client that supports it and any sender registration required by that provider.
-Add your sending platform's unsubscribe/preferences mechanism before sending a marketing campaign; the design did not supply a working unsubscribe URL.
+Text, dates, figures and target URLs reproduce the supplied design. Market information was not independently verified. UTM parameters and bonus-terms links are preserved. The design uses support@bitdelta.pro in the contact banner and support@bitdelta.com in the footer.
+Archivo falls back to Arial/Helvetica where unavailable. Browser previews were checked at 600px and 375px, with all runtime assets present and no horizontal overflow. Live campaign delivery in Gmail, Outlook and Apple Mail was not tested. Configure your email platform's unsubscribe/preferences mechanism before sending a marketing campaign; the supplied design did not provide one.
 
-Text, market figures, dates and link targets reproduce the supplied Figma design and are static. They were not independently checked as financial information. The footer support address is support@bitdelta.com as supplied by Figma; the relationship-manager address is support@bitdelta.pro.
-Archivo falls back to Arial/Helvetica where unavailable. Browser previews were checked at 600px and 375px with all image files present and no horizontal overflow. Live delivery in Gmail, Outlook and Apple Mail was not tested.
-
-Figma source: https://www.figma.com/design/Cm8XEAP4claVjwLRZ71dfq/?node-id=2043-139
+Figma source: https://www.figma.com/design/Cm8XEAP4claVjwLRZ71dfq/?node-id=2099-374

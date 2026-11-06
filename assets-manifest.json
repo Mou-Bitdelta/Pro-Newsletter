@@ -1,136 +1,126 @@
 [
   {
-    "file": "Rectangle161125188.png",
+    "file": "OriginalCampaignCyanParticles.png",
     "format": "png",
-    "sourceWidth": 1332,
-    "sourceHeight": 2004,
-    "width": 1200,
-    "height": 1805,
-    "originalBytes": 712153,
-    "optimizedBytes": 383679
+    "sourceWidth": 960,
+    "sourceHeight": 410,
+    "width": 960,
+    "height": 410,
+    "originalBytes": 446344,
+    "optimizedBytes": 170823
   },
   {
-    "file": "Glossy3DCryptocurrencyCoinSet2.png",
+    "file": "Gold3DGlassB5Dbea.png",
     "format": "png",
-    "sourceWidth": 2172,
-    "sourceHeight": 724,
-    "width": 400,
-    "height": 133,
-    "originalBytes": 732634,
-    "optimizedBytes": 20455
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "width": 104,
+    "height": 104,
+    "originalBytes": 1053667,
+    "optimizedBytes": 5468
   },
   {
-    "file": "Glossy3DCryptocurrencyCoinSet3.png",
+    "file": "EurUsd3DGlassB5Dbea.png",
     "format": "png",
-    "sourceWidth": 1024,
-    "sourceHeight": 1024,
-    "width": 400,
-    "height": 400,
-    "originalBytes": 162607,
-    "optimizedBytes": 10739
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "width": 104,
+    "height": 104,
+    "originalBytes": 1125455,
+    "optimizedBytes": 5937
   },
   {
-    "file": "Glossy3DCryptocurrencyCoinSet4.png",
+    "file": "SP5003DGlassB5Dbea.png",
     "format": "png",
-    "sourceWidth": 1024,
-    "sourceHeight": 1024,
-    "width": 400,
-    "height": 400,
-    "originalBytes": 216873,
-    "optimizedBytes": 32637
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "width": 104,
+    "height": 104,
+    "originalBytes": 919709,
+    "optimizedBytes": 5101
   },
   {
-    "file": "Rectangle161125195.png",
+    "file": "Bitcoin3DGlassB5Dbea.png",
     "format": "png",
-    "sourceWidth": 1024,
-    "sourceHeight": 761,
-    "width": 496,
-    "height": 369,
-    "originalBytes": 415869,
-    "optimizedBytes": 64204
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "width": 104,
+    "height": 104,
+    "originalBytes": 1327344,
+    "optimizedBytes": 6512
   },
   {
-    "file": "MinimalistGreenFinanceIcons1.png",
+    "file": "GoldSourceEditorialPhotograph.png",
     "format": "png",
-    "sourceWidth": 1024,
-    "sourceHeight": 1024,
-    "width": 120,
-    "height": 120,
-    "originalBytes": 71331,
-    "optimizedBytes": 4343
-  },
-  {
-    "file": "MinimalistGreenFinanceIcons2.png",
-    "format": "png",
-    "sourceWidth": 1024,
-    "sourceHeight": 1024,
-    "width": 120,
-    "height": 120,
-    "originalBytes": 85181,
-    "optimizedBytes": 4483
-  },
-  {
-    "file": "MinimalistGreenFinanceIcons3.png",
-    "format": "png",
-    "sourceWidth": 1024,
-    "sourceHeight": 1024,
-    "width": 120,
-    "height": 120,
-    "originalBytes": 84785,
-    "optimizedBytes": 4195
-  },
-  {
-    "file": "MinimalistGreenFinanceIcons4.png",
-    "format": "png",
-    "sourceWidth": 1024,
-    "sourceHeight": 1024,
-    "width": 120,
-    "height": 120,
-    "originalBytes": 68290,
-    "optimizedBytes": 4181
-  },
-  {
-    "file": "Rectangle161125211.png",
-    "format": "png",
-    "sourceWidth": 1024,
-    "sourceHeight": 393,
-    "width": 1024,
-    "height": 393,
-    "originalBytes": 293749,
-    "optimizedBytes": 136744
+    "sourceWidth": 1149,
+    "sourceHeight": 1368,
+    "width": 600,
+    "height": 714,
+    "originalBytes": 2115039,
+    "optimizedBytes": 207460
   },
   {
     "file": "Image2.png",
     "format": "png",
-    "sourceWidth": 2048,
-    "sourceHeight": 768,
+    "sourceWidth": 2141,
+    "sourceHeight": 734,
     "width": 1200,
-    "height": 450,
-    "originalBytes": 1989922,
-    "optimizedBytes": 226413
+    "height": 411,
+    "originalBytes": 1789257,
+    "optimizedBytes": 207107
   },
   {
-    "file": "17924933732911.png",
+    "file": "VipRoundedGlassIllustration.png",
     "format": "png",
-    "sourceWidth": 1279,
-    "sourceHeight": 720,
+    "sourceWidth": 1254,
+    "sourceHeight": 1254,
+    "width": 374,
+    "height": 374,
+    "originalBytes": 1273671,
+    "optimizedBytes": 40676
+  },
+  {
+    "file": "OriginalLinkedInPostPreview.png",
+    "format": "png",
+    "sourceWidth": 960,
+    "sourceHeight": 540,
     "width": 504,
     "height": 284,
-    "originalBytes": 1393985,
-    "optimizedBytes": 85322
+    "originalBytes": 597646,
+    "optimizedBytes": 89815
   },
   {
-    "file": "MacBookAir2022.png",
+    "file": "PlatformLaptopFromCorrectReference.png",
     "format": "png",
-    "sourceWidth": 4096,
-    "sourceHeight": 3179,
-    "width": 400,
-    "height": 310,
-    "originalBytes": 6717726,
-    "optimizedBytes": 32960
+    "sourceWidth": 1402,
+    "sourceHeight": 1122,
+    "width": 600,
+    "height": 480,
+    "originalBytes": 1723517,
+    "optimizedBytes": 110370
+  },
+  {
+    "file": "Layer1.svg",
+    "format": "svg",
+    "sourceWidth": 52,
+    "sourceHeight": 46,
+    "width": 52,
+    "height": 46,
+    "originalBytes": 1724,
+    "optimizedBytes": 1724
   },
   {
     "file": "Group2147264426.svg",
+    "format": "svg",
+    "sourceWidth": 233,
+    "sourceHeight": 25,
+    "width": 233,
+    "height": 25,
+    "originalBytes": 5934,
+    "optimizedBytes": 5934
+  },
+  {
+    "file": "Group2147264427.svg",
     "format": "svg",
     "sourceWidth": 1200,
     "sourceHeight": 129,
@@ -150,17 +140,7 @@
     "optimizedBytes": 232
   },
   {
-    "file": "Layer1.svg",
-    "format": "svg",
-    "sourceWidth": 52,
-    "sourceHeight": 46,
-    "width": 52,
-    "height": 46,
-    "originalBytes": 1724,
-    "optimizedBytes": 1724
-  },
-  {
-    "file": "Group2147264427.svg",
+    "file": "Group2147264428.svg",
     "format": "svg",
     "sourceWidth": 233,
     "sourceHeight": 25,
@@ -218,15 +198,5 @@
     "height": 23,
     "originalBytes": 2536,
     "optimizedBytes": 2536
-  },
-  {
-    "file": "Group2147264428.svg",
-    "format": "svg",
-    "sourceWidth": 233,
-    "sourceHeight": 25,
-    "width": 233,
-    "height": 25,
-    "originalBytes": 5934,
-    "optimizedBytes": 5934
   }
 ]
