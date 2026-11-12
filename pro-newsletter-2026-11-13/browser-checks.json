@@ -1,0 +1,35 @@
+{
+  "html": {
+    "desktop": {
+      "contentWidth": 600,
+      "height": 4000,
+      "allImagesLoaded": true,
+      "horizontalOverflow": false,
+      "screenshot": "preview-600.jpg"
+    },
+    "mobile": {
+      "contentWidth": 375,
+      "height": 5935,
+      "allImagesLoaded": true,
+      "horizontalOverflow": false,
+      "screenshot": "preview-375.jpg"
+    }
+  },
+  "amp": {
+    "validation": "PASS",
+    "errors": 0,
+    "visualMobile": {
+      "viewport": 375,
+      "contentWidth": 360,
+      "overflowCount": 0,
+      "marketIconWidths": [
+        52,
+        52,
+        52,
+        52
+      ],
+      "imageElements": 21
+    }
+  },
+  "scope": "Browser visual and structure checks; no live email-client delivery test."
+}

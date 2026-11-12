@@ -1,0 +1,23 @@
+{
+  "assetsReferenced": 20,
+  "allReferencedFilesPresent": true,
+  "copyChecksPassed": true,
+  "tableTags": {
+    "table": {
+      "open": 96,
+      "close": 96
+    },
+    "tr": {
+      "open": 118,
+      "close": 118
+    },
+    "td": {
+      "open": 152,
+      "close": 152
+    }
+  },
+  "htmlBytes": 39831,
+  "ampBytes": 38668,
+  "allAssetUrlsHttps": true,
+  "githubAssets": "Production assets under pro-newsletter-2026-11-13/assets/"
+}

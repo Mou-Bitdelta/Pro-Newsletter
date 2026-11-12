@@ -1,0 +1,240 @@
+{
+  "totals": {
+    "originalBytes": 15472944,
+    "optimizedBytes": 952019,
+    "reductionPercent": 93.8
+  },
+  "assets": [
+    {
+      "file": "assets/hero-v2.png",
+      "format": "png",
+      "width": 1200,
+      "height": 410,
+      "sourceWidth": 2172,
+      "sourceHeight": 724,
+      "originalBytes": 1705474,
+      "optimizedBytes": 279155,
+      "hasAlpha": false
+    },
+    {
+      "file": "assets/gold-v2.png",
+      "format": "png",
+      "width": 104,
+      "height": 104,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "originalBytes": 1152696,
+      "optimizedBytes": 5620,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/eur-usd-v2.png",
+      "format": "png",
+      "width": 104,
+      "height": 104,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "originalBytes": 1456858,
+      "optimizedBytes": 6559,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/sp500-v2.png",
+      "format": "png",
+      "width": 104,
+      "height": 104,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "originalBytes": 1037076,
+      "optimizedBytes": 5466,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/bitcoin-v2.png",
+      "format": "png",
+      "width": 104,
+      "height": 104,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "originalBytes": 1186708,
+      "optimizedBytes": 5852,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/market-insight-v2.png",
+      "format": "png",
+      "width": 496,
+      "height": 590,
+      "sourceWidth": 1122,
+      "sourceHeight": 1402,
+      "originalBytes": 2142614,
+      "optimizedBytes": 127450,
+      "hasAlpha": false
+    },
+    {
+      "file": "assets/explore-markets-v2.png",
+      "format": "png",
+      "width": 1120,
+      "height": 650,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "originalBytes": 1595753,
+      "optimizedBytes": 313112,
+      "hasAlpha": false
+    },
+    {
+      "file": "assets/vip-v2.png",
+      "format": "png",
+      "width": 374,
+      "height": 310,
+      "sourceWidth": 1254,
+      "sourceHeight": 1254,
+      "originalBytes": 1073057,
+      "optimizedBytes": 24750,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/linkedin-post-v2.png",
+      "format": "png",
+      "width": 504,
+      "height": 284,
+      "sourceWidth": 1672,
+      "sourceHeight": 941,
+      "originalBytes": 1754723,
+      "optimizedBytes": 64595,
+      "hasAlpha": false
+    },
+    {
+      "file": "assets/platform-v2.png",
+      "format": "png",
+      "width": 496,
+      "height": 377,
+      "sourceWidth": 1448,
+      "sourceHeight": 1086,
+      "originalBytes": 1673345,
+      "optimizedBytes": 82730,
+      "hasAlpha": false
+    },
+    {
+      "file": "assets/yas-lions.png",
+      "format": "png",
+      "width": 374,
+      "height": 310,
+      "sourceWidth": 4500,
+      "sourceHeight": 4500,
+      "originalBytes": 678904,
+      "optimizedBytes": 22127,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/Layer1.png",
+      "format": "png",
+      "width": 104,
+      "height": 92,
+      "sourceWidth": 104,
+      "sourceHeight": 92,
+      "originalBytes": 949,
+      "optimizedBytes": 894,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/Group2147264426.png",
+      "format": "png",
+      "width": 2400,
+      "height": 258,
+      "sourceWidth": 2400,
+      "sourceHeight": 258,
+      "originalBytes": 8787,
+      "optimizedBytes": 8249,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/Group2147264428.png",
+      "format": "png",
+      "width": 466,
+      "height": 50,
+      "sourceWidth": 466,
+      "sourceHeight": 50,
+      "originalBytes": 1800,
+      "optimizedBytes": 1701,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/Group2147264427.png",
+      "format": "png",
+      "width": 466,
+      "height": 50,
+      "sourceWidth": 466,
+      "sourceHeight": 50,
+      "originalBytes": 1805,
+      "optimizedBytes": 1581,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/Vector180.png",
+      "format": "png",
+      "width": 2238,
+      "height": 2,
+      "sourceWidth": 2238,
+      "sourceHeight": 2,
+      "originalBytes": 120,
+      "optimizedBytes": 120,
+      "hasAlpha": false
+    },
+    {
+      "file": "assets/XLogo.png",
+      "format": "png",
+      "width": 46,
+      "height": 46,
+      "sourceWidth": 46,
+      "sourceHeight": 46,
+      "originalBytes": 491,
+      "optimizedBytes": 453,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/FacebookLogo.png",
+      "format": "png",
+      "width": 46,
+      "height": 46,
+      "sourceWidth": 46,
+      "sourceHeight": 46,
+      "originalBytes": 500,
+      "optimizedBytes": 460,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/InstagramLogo.png",
+      "format": "png",
+      "width": 46,
+      "height": 46,
+      "sourceWidth": 46,
+      "sourceHeight": 46,
+      "originalBytes": 511,
+      "optimizedBytes": 445,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/YoutubeLogo.png",
+      "format": "png",
+      "width": 46,
+      "height": 46,
+      "sourceWidth": 46,
+      "sourceHeight": 46,
+      "originalBytes": 412,
+      "optimizedBytes": 376,
+      "hasAlpha": true
+    },
+    {
+      "file": "assets/LinkedinLogo.png",
+      "format": "png",
+      "width": 46,
+      "height": 46,
+      "sourceWidth": 46,
+      "sourceHeight": 46,
+      "originalBytes": 361,
+      "optimizedBytes": 324,
+      "hasAlpha": true
+    }
+  ]
+}
