@@ -1,0 +1,20 @@
+{
+  "subject": "BitDelta Pro Weekly | Dollar Strength Pressures Gold",
+  "preheader": "Hawkish Fed signals, market moves, Yas Lions and the events shaping the week ahead.",
+  "folder": "pro-newsletter-2026-11-20",
+  "repository": "Mou-Bitdelta/Pro-Newsletter",
+  "assetBase": "https://raw.githubusercontent.com/Mou-Bitdelta/Pro-Newsletter/main/pro-newsletter-2026-11-20/assets/",
+  "figma": "https://www.figma.com/design/FkihikZaJ3kizqP1KgVyfu/Untitled?node-id=85-453",
+  "status": "Approved for GitHub publication",
+  "fontNote": "HTML uses Archivo where supported. AMP uses system font fallback because AMP for Email forbids custom font downloads.",
+  "ampPreview": "Browser-only static rendering of the AMP layout; newsletter.amp.html is the actual AMP4EMAIL document.",
+  "links": {
+    "home": "https://bitdelta.pro/",
+    "yas": "https://cricket.bitdelta.pro/yas_lions_bitdelta_sponsorship",
+    "markets": "https://bitdelta.pro/",
+    "vip": "https://bitdelta.pro/accounts/",
+    "terms": "https://bitdelta.pro/vip-account-bonus-terms-and-conditions/",
+    "post": "https://www.linkedin.com/feed/update/urn:li:activity:7526929013886312448",
+    "platforms": "https://bitdelta.pro/platforms/"
+  }
+}
