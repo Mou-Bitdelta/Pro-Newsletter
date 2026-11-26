@@ -1,0 +1,23 @@
+{
+  "subject": "BitDelta Pro Weekly | Gold Tests a One-Year Low",
+  "preheader": "Gold, Bitcoin, global market moves and the economic events to watch next.",
+  "folder": "pro-newsletter-2026-11-26",
+  "repository": "Mou-Bitdelta/Pro-Newsletter",
+  "assetBase": "https://raw.githubusercontent.com/Mou-Bitdelta/Pro-Newsletter/main/pro-newsletter-2026-11-26/assets/",
+  "figma": "https://www.figma.com/design/FkihikZaJ3kizqP1KgVyfu/Untitled?node-id=85-453",
+  "status": "Approved for publication",
+  "sourceDocument": "BITDELTA PRO NEWSLETTER WEEK- 47.docx",
+  "sourceDateRange": "20–26 November 2026",
+  "postLinkStatus": "Provided LinkedIn post",
+  "newIconAssetBase": "https://raw.githubusercontent.com/Mou-Bitdelta/Pro-Newsletter/main/pro-newsletter-2026-11-26/assets/",
+  "fontNote": "HTML uses Archivo where supported. AMP uses system font fallback because AMP for Email forbids custom font downloads.",
+  "ampPreview": "Browser-only static rendering of the AMP layout; newsletter.amp.html is the actual AMP4EMAIL document.",
+  "links": {
+    "home": "https://www.bitdelta.pro",
+    "markets": "https://www.bitdelta.pro",
+    "vip": "https://bitdelta.pro/accounts/",
+    "terms": "https://bitdelta.pro/vip-account-bonus-terms-and-conditions/",
+    "post": "https://www.linkedin.com/feed/update/urn:li:activity:7530593092979077120",
+    "platforms": "https://bitdelta.pro/platforms/"
+  }
+}
