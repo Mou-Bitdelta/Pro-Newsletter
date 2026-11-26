@@ -1,11 +1,11 @@
 {
-  "sourceParagraphsVerified": 30,
+  "sourceParagraphsVerified": 29,
   "marketLevelsVerified": 8,
   "events": 8,
   "oldSponsorshipContentRemoved": true,
   "allAssetsPresent": true,
   "ampValidation": "PASS",
-  "htmlBytes": 59876,
-  "ampBytes": 51384,
+  "htmlBytes": 60462,
+  "ampBytes": 51964,
   "specificPostLinkPending": false
 }
